@@ -17,9 +17,9 @@
 
 ## About
 
-Go developer focused on backend services, network protocols, and reliable systems. I value a systematic approach, engineering precision, and complete ownership — from clean APIs to thorough testing. Disciplined and independent when solving non-standard problems. Currently seeking a trainee or junior Go backend role (full-time or internship).
+Go developer focused on backend services, network protocols, and reliable systems. I value a systematic approach and engineering precision. Disciplined and independent when solving non-standard problems. Currently seeking a trainee or junior Go backend role (full-time or internship).
 
-**Currently learning:** Bash, Python, finishing *Modern Operating Systems*, and the Bible.
+**Currently learning:** Bash, Python, reading *Modern Operating Systems* by Andrew S. Tanenbaum.
 
 **Relocation open to:** Russia, Ukraine, Poland, Kazakhstan, China. Ready to start at any time. Business trips possible.
 
